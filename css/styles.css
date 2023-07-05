@@ -7,11 +7,7 @@
   --cloud: #f4f4fd;
   --background: #fff;
 }
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
+
 h1,
 h2,
 h3,
@@ -36,6 +32,16 @@ body {
   color: var(--slate, #434455);
   background-color: var(--background, #fff);
 }
+
+.container{
+  width: 100%;
+  max-width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+  outline: 1px solid orangered;
+  }
+
 .list {
   list-style: none;
 }
