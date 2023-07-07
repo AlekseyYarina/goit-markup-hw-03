@@ -87,6 +87,7 @@ img {
   list-style: none;
 }
 .link {
+  display: inline-block;
   text-decoration: none;
 }
 .logo {
@@ -302,9 +303,9 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
-  margin-bottom: 16px;
 }
 .footer-block {
+  display: inline-block;
   margin-bottom: 16px;
 }
 .footer-text {
