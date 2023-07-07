@@ -89,7 +89,6 @@ img {
 }
 .link {
   text-decoration: none;
-  display: inline-block;
 }
 .logo {
   color: var(--iris, #4d5ae5);
@@ -100,7 +99,6 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
-  display: inline-block;
 }
 
 .logo-accent {
@@ -290,8 +288,7 @@ img {
   padding: 100px 0;
 }
 .container-footer {
-  display: inline-block;
-  display: flex;
+  display:  inline-block;
   flex-direction: column;
   padding: 100px 0;
   gap: 17.5px;
