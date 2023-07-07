@@ -62,7 +62,6 @@ img {
 .header-container {
   display: flex;
   align-items: center;
-  padding: 0 15px 0 15px;
 }
 .header-navigation {
   display: flex;
