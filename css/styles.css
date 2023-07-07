@@ -293,6 +293,7 @@ img {
   gap: 17.5px;
 }
 .footer-logo {
+  display: inline-block;
   color: var(--iris, #4d5ae5);
   font-size: 18px;
   font-family: "Raleway", sans-serif;
@@ -301,7 +302,8 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
-  display: inline-block;
+
+  margin-bottom: 16px;
 }
 .footer-text {
   display: flex;
