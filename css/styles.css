@@ -289,8 +289,7 @@ img {
 }
 .container-footer {
   padding: 100px 0;
-  gap: 17.5px;
-}
+  }
 .footer-logo {
   display: inline-block;
   color: var(--iris, #4d5ae5);
