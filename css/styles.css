@@ -54,7 +54,7 @@ img {
   width: 100%;
   max-width: 1158px;
   margin: 0 auto;
-  
+  padding: 0 15px;
 }
 .header{
   border-bottom: 1px solid #e7e9fc;
@@ -62,7 +62,7 @@ img {
 .header-container {
   display: flex;
   align-items: center;
-  padding: 0 15px;
+  padding: 24px 0;
 }
 .header-navigation {
   display: flex;
@@ -284,6 +284,7 @@ img {
 .footer {
   background: var(--navyblue, #2e2f42);
   color: var(--cloud, #f4f4fd);
+  padding: 100px 0;
 }
 .container-footer {
   display: flex;
@@ -291,7 +292,7 @@ img {
   padding: 100px 0;
   gap: 17.5px;
 }
-.footer-display{
+.footer-display {
   display: inline-block;
   margin-bottom: 16px;
 }
