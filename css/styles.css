@@ -87,7 +87,6 @@ img {
   list-style: none;
 }
 .link {
-  display: inline-block;
   text-decoration: none;
 }
 .logo {
@@ -305,7 +304,6 @@ img {
   margin-right: 76px;
 }
 .footer-block {
-  display: inline-block;
   margin-bottom: 16px;
 }
 .footer-text {
