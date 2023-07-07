@@ -54,7 +54,7 @@ img {
   width: 100%;
   max-width: 1158px;
   margin: 0 auto;
-  padding: 0 15px 0 15px;
+  padding: 0 15px;
 }
 .header{
   border-bottom: 1px solid #e7e9fc;
@@ -148,13 +148,13 @@ img {
 .section-one {
   background: var(--navyblue, #2e2f42);
   color: var(--white, #fff);
+  padding: 188px 0;
 }
 .container-section-one {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 188px 0;
 }
 .section-one-title {
   font-size: 56px;
@@ -198,6 +198,9 @@ img {
   cursor: pointer;
   border: 1px solid transparent;
 }
+.section-two{
+  padding: 120px 0;
+}
 .container-sec-two{
   padding: 120px 0;
 }
@@ -219,6 +222,9 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   margin-bottom: 8px;
+}
+.section-three{
+  padding-bottom: 120px;
 }
 .container-sec-three{
   padding-bottom: 120px;
@@ -246,6 +252,7 @@ img {
 }
 .section-four {
   background: var(--cloud, #f4f4fd);
+  padding: 120px 0;
 }
 .container-section-four {
   padding: 120px 0;
